@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Logger/Logger.iml" filepath="$PROJECT_DIR$/Logger/Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingApp/LoggingApp.iml" filepath="$PROJECT_DIR$/LoggingApp/LoggingApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoggingExample.iml" filepath="$PROJECT_DIR$/LoggingExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LoggingExample/LoggingExample-LoggingExample.iml" filepath="$PROJECT_DIR$/LoggingExample/LoggingExample-LoggingExample.iml" />
     </modules>
   </component>
 </project>

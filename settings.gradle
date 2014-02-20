@@ -1,1 +1,2 @@
-include ':LoggingExample'
+include ':Logger'
+include 'LoggingApp'

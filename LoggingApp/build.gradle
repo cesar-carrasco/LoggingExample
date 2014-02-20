@@ -19,5 +19,6 @@ android {
 }
 
 dependencies {
+    //compile project(':Logger')
     compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
 }
