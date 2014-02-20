@@ -1,0 +1,6 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+
+LoggingExample/src/main/res/values/analytics.xml
